@@ -7,7 +7,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-st.title("🧭 Клим, почини!!!!! CI/CD Работает!!!")
+st.title("SkillCompass
 st.caption("Компас навыков и зарплат для IT-аналитиков")
 
 st.markdown(
